@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JKVideo.Core", "JKVideo.Core\JKVideo.Core.csproj", "{F39A8109-3747-47AD-8021-6718471E9435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JKVideo.WPFClient", "JKVideo.WPFClient\JKVideo.WPFClient.csproj", "{9DDFF2C8-C7F7-4892-8316-DD636B3F05EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12306.WebUI", "12306.WebUI\12306.WebUI.csproj", "{E268F462-ACA4-4E9F-8158-551630AAC330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12306.Domain", "12306.Domain\12306.Domain.csproj", "{87C99A80-97AC-4358-A93F-EC9C5EFBDD3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{96549532-2CC9-4D28-8690-1419129A018E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F39A8109-3747-47AD-8021-6718471E9435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39A8109-3747-47AD-8021-6718471E9435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39A8109-3747-47AD-8021-6718471E9435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39A8109-3747-47AD-8021-6718471E9435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDFF2C8-C7F7-4892-8316-DD636B3F05EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDFF2C8-C7F7-4892-8316-DD636B3F05EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDFF2C8-C7F7-4892-8316-DD636B3F05EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDFF2C8-C7F7-4892-8316-DD636B3F05EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E268F462-ACA4-4E9F-8158-551630AAC330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E268F462-ACA4-4E9F-8158-551630AAC330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E268F462-ACA4-4E9F-8158-551630AAC330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E268F462-ACA4-4E9F-8158-551630AAC330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C99A80-97AC-4358-A93F-EC9C5EFBDD3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C99A80-97AC-4358-A93F-EC9C5EFBDD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C99A80-97AC-4358-A93F-EC9C5EFBDD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C99A80-97AC-4358-A93F-EC9C5EFBDD3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96549532-2CC9-4D28-8690-1419129A018E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96549532-2CC9-4D28-8690-1419129A018E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96549532-2CC9-4D28-8690-1419129A018E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96549532-2CC9-4D28-8690-1419129A018E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

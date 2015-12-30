@@ -1,0 +1,11 @@
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\UnitTestProject1\bin\Debug\12306.Domain.dll
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\UnitTestProject1\bin\Debug\12306.Domain.pdb
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\UnitTestProject1\bin\Debug\Newtonsoft.Json.xml
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\UnitTestProject1\bin\Debug\JKVideo.Core.dll
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\UnitTestProject1\bin\Debug\JKVideo.Core.pdb

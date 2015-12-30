@@ -1,0 +1,9 @@
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\JKVideo.Core\bin\Debug\JKVideo.Core.dll
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\JKVideo.Core\bin\Debug\JKVideo.Core.pdb
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\JKVideo.Core\obj\Debug\JKVideo.Core.csprojResolveAssemblyReference.cache
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\JKVideo.Core\obj\Debug\JKVideo.Core.dll
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\JKVideo.Core\obj\Debug\JKVideo.Core.pdb
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\JKVideo.Core\bin\Debug\Newtonsoft.Json.dll
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\JKVideo.Core\bin\Debug\Newtonsoft.Json.xml
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\JKVideo.Core\bin\Debug\12306.Domain.dll
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\JKVideo.Core\bin\Debug\12306.Domain.pdb

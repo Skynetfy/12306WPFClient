@@ -1,0 +1,17 @@
+﻿<Window x:Class="JKVideo.WPFClient.PassengersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PassengersWindow" Height="554" Width="935">
+    <Grid>
+        <DataGrid x:Name="DataGrid1" Margin="10,52,10,0" VerticalAlignment="Top" Height="620" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="姓 名" Width="80" Binding="{Binding passenger_name}"/>
+                <DataGridTextColumn Header="性 别" Width="80" Binding="{Binding sex_name}"/>
+                <DataGridTextColumn Header="手机号" Width="100" Binding="{Binding mobile_no}"/>
+                <DataGridTextColumn Header="邮 箱" Width="100" Binding="{Binding email}"/>
+                <DataGridTextColumn Header="证件类型" Width="80" Binding="{Binding passenger_id_type_name}"/>
+                <DataGridTextColumn Header="证件号" Width="150" Binding="{Binding passenger_id_no}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

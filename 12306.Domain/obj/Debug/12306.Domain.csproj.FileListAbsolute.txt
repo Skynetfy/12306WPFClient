@@ -1,0 +1,7 @@
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\12306.Domain\bin\Debug\12306.Domain.dll
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\12306.Domain\bin\Debug\12306.Domain.pdb
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\12306.Domain\bin\Debug\Newtonsoft.Json.dll
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\12306.Domain\bin\Debug\Newtonsoft.Json.xml
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\12306.Domain\obj\Debug\12306.Domain.dll
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\12306.Domain\obj\Debug\12306.Domain.pdb
+E:\work\极客学院视频爬虫\Skynetfy.JKVideo\12306.Domain\obj\Debug\12306.Domain.csprojResolveAssemblyReference.cache
